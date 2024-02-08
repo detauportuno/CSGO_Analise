@@ -1,4 +1,4 @@
-# Plotly_basico
+# Streamlit+Plotly_basico
 Estudando plotly para criação de dashboards basicos e animados com outras linguagens
 
 Estudo em cima do link https://plotly.com/python/
@@ -21,3 +21,6 @@ Mexendo com a parte de erros em gráficos, posso fazer equações e traçar uma 
 ![image](https://github.com/detauportuno/Plotly_basico/assets/89166187/6f9d3857-a879-4697-bb3d-9d9442e1cfa6)
 ![image](https://github.com/detauportuno/Plotly_basico/assets/89166187/2071280e-63fd-4af5-99ed-388736711bb8)
 
+***Dia 08.02***
+
+Estudando o básico de Streamlit.
