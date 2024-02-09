@@ -1,4 +1,4 @@
-***Análise de Dados - CSGO****
+***Análise de Dados - CSGO***
 
 Objetivo: 
 
