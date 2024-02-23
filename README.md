@@ -18,3 +18,4 @@ Com essa análise, podem ser relacionados inúmeros parâmetros, podendo verific
 Como será feita a análise? 
 
 Através do Streamlit, onde uma página web externa será criada exibindo os dados selecionados, no entanto obviamente outras bibliotecas de processamento e análise de dados como pandas e numpy serão utilizadas.
+A primeira análise será feita com numpy e matplotlib.
